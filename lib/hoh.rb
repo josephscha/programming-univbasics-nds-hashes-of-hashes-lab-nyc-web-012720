@@ -36,7 +36,7 @@ def naming_system
   taxonomy[1] = PORTION_2
   taxonomy[2] = PORTION_3
   taxonomy[3] = PORTION_4
-  taxonomy[0][1][2][3]
+  taxonomy
   # Remember:
   #  Kingdom
   #  Phylum
