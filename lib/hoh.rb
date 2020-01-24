@@ -33,6 +33,7 @@ PORTION_4 = {
 def naming_system
   taxonomy = {}
   taxonomy << [PORTION_1,PORTION_2,PORTION_3,PORTION_4]
+  taxonomy
   # Remember:
   #  Kingdom
   #  Phylum
