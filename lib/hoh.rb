@@ -32,7 +32,7 @@ PORTION_4 = {
 
 def naming_system
   taxonomy = {}
-  taxonomy.push PORTION_1
+  taxonomy += PORTION_1
   # Remember:
   #  Kingdom
   #  Phylum
