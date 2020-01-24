@@ -56,7 +56,7 @@ def naming_system
   label: "Species",
   sub_category: nil
 }
-
+taxonomy = [PORTION_1],[PORTION_2],[PORTION_3],[PORTION_4]
   # Remember:
   #  Kingdom
   #  Phylum
@@ -67,5 +67,5 @@ def naming_system
   #  Species
   # So, if we have the "Kingdom" node we should be able to "tunnel" into the
   # HoH all the way to Species!
-
+taxonomy
 end
