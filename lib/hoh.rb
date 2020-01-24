@@ -31,7 +31,7 @@
 # }
 
 def naming_system
-  PORTION_1 = {
+  PORTION_1 = [{
   label: "Kingdom",
   sub_category: {
     label: "Phylum",
@@ -55,7 +55,7 @@ def naming_system
   PORTION_4 = {
   label: "Species",
   sub_category: nil
-}
+}]
 taxonomy = [PORTION_1],[PORTION_2],[PORTION_3],[PORTION_4]
   # Remember:
   #  Kingdom
