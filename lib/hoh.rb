@@ -30,21 +30,21 @@ PORTION_4 = {
   sub_category: nil
 }
 
-def naming_system
-  taxonomy = {}
-  taxonomy[0] = PORTION_1
-  taxonomy[1] = PORTION_2
-  taxonomy[2] = PORTION_3
-  taxonomy[3] = PORTION_4
-  taxonomy
-  # Remember:
-  #  Kingdom
-  #  Phylum
-  #  Class
-  #  Order
-  #  Family
-  #  Genus
-  #  Species
-  # So, if we have the "Kingdom" node we should be able to "tunnel" into the
-  # HoH all the way to Species!
-end
+# def naming_system
+#   taxonomy = {}
+#   taxonomy[0] = PORTION_1
+#   taxonomy[1] = PORTION_2
+#   taxonomy[2] = PORTION_3
+#   taxonomy[3] = PORTION_4
+#   taxonomy
+#   # Remember:
+#   #  Kingdom
+#   #  Phylum
+#   #  Class
+#   #  Order
+#   #  Family
+#   #  Genus
+#   #  Species
+#   # So, if we have the "Kingdom" node we should be able to "tunnel" into the
+#   # HoH all the way to Species!
+# end
