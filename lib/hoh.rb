@@ -54,5 +54,6 @@ def naming_system
   PORTION_1[:sub_category][:sub_category][:sub_category] = PORTION_2
   PORTION_2[:sub_category] = PORTION_3
   PORTION_3[:sub_category][:sub_category] = PORTION_4
+  #return PORTION_1 now with all the :sub_category(s) added
   PORTION_1
 end
